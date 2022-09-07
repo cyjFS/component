@@ -1,0 +1,16 @@
+PODS:
+  - GSNetworking (0.1.0)
+
+DEPENDENCIES:
+  - GSNetworking (from `Lib/GSNetworking`)
+
+EXTERNAL SOURCES:
+  GSNetworking:
+    :path: Lib/GSNetworking
+
+SPEC CHECKSUMS:
+  GSNetworking: 095f25adb2a628a01e21ba9e7e34ce7b4545c9df
+
+PODFILE CHECKSUM: a25138b459fc2974dea16065a61760b95267c00e
+
+COCOAPODS: 1.11.2

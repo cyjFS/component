@@ -1,0 +1,22 @@
+{
+  "name": "GSNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of GSNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenyuanjiang/GSNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenyuanjiang": "yuanjiang.chen@capgemini.com"
+  },
+  "source": {
+    "git": "https://github.com/chenyuanjiang/GSNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GSNetworking/Classes/**/*"
+}
